@@ -484,6 +484,24 @@ insert into article_comment (article_id, createdat, modifiedat, createdby, modif
 values (5, '2023-04-24 15:46:55', '2023-10-01 06:57:52', 'Heinrick', 'Tomasine',
         'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
 insert into article_comment (article_id, createdat, modifiedat, createdby, modifiedby, content)
+values (1, '2023-07-31 11:35:16', '2023-08-29 15:42:38', 'Pip', 'Garrot',
+        'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into article_comment (article_id, createdat, modifiedat, createdby, modifiedby, content)
+values (1, '2022-12-28 21:59:21', '2023-11-21 17:05:21', 'Shurwood', 'Connie',
+        'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into article_comment (article_id, createdat, modifiedat, createdby, modifiedby, content)
+values (2, '2022-12-13 07:57:10', '2023-07-13 20:09:39', 'Alfonso', 'Lacey',
+        'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into article_comment (article_id, createdat, modifiedat, createdby, modifiedby, content)
+values (2, '2023-07-31 11:35:16', '2023-08-29 15:42:38', 'Pip', 'Garrot',
+        'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
+insert into article_comment (article_id, createdat, modifiedat, createdby, modifiedby, content)
+values (2, '2022-12-28 21:59:21', '2023-11-21 17:05:21', 'Shurwood', 'Connie',
+        'Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.');
+insert into article_comment (article_id, createdat, modifiedat, createdby, modifiedby, content)
+values (2, '2022-12-13 07:57:10', '2023-07-13 20:09:39', 'Alfonso', 'Lacey',
+        'In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.');
+insert into article_comment (article_id, createdat, modifiedat, createdby, modifiedby, content)
 values (6, '2023-07-31 11:35:16', '2023-08-29 15:42:38', 'Pip', 'Garrot',
         'Aenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.');
 insert into article_comment (article_id, createdat, modifiedat, createdby, modifiedby, content)
