@@ -1,3 +1,9 @@
+
+insert into user_account (userid, userpassword, nickname, email, memo, createdAt, createdBy, modifiedAt, modifiedBy) values
+('lee', 'asdf1234', 'Lee', 'Lee@naver.com', 'I am Lee', now(), 'lee', now(), 'lee');
+
+
+
 insert into article (title, content, hashtag, createdby, modifiedby, createdat, modifiedat)
 values ('Cras non velit nec nisi vulputate nonummy.',
         'Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.',
